@@ -10,7 +10,7 @@ import ttthread.ihm.Ihm;
 import ttthread.ctrl.Ctrl;
 
 /**
- *
+ * Classe principale
  * @author Waebela
  */
 public class TTThread {

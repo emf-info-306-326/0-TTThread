@@ -6,7 +6,7 @@
 package ttthread.wrk;
 
 /**
- *
+ * Activity Thread
  * @author Waebela
  */
 public class ActivityThread extends ThreadEmf{
