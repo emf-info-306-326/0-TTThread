@@ -10,7 +10,7 @@ import java.util.logging.Logger;
 import ttthread.ctrl.Ctrl;
 
 /**
- *
+ * Classe worker
  * @author Waebela
  */
 public class Wrk {
